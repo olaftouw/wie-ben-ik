@@ -1,0 +1,10 @@
+Body {
+	 background-image: url("../img/campfire.jpg");
+	 background-size: cover;
+     background-color: white;
+     color: white;
+     font-family: trebuchet MS ;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+} 
