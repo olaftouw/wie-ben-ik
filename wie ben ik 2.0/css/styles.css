@@ -1,0 +1,83 @@
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+body{
+	background-image: url("../img/campfire.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	line-height: 1.7em; font-family: 'Roboto', sans-serif;
+	color: white;
+}
+img.banner{
+	height: 155px;
+	width: 300px;
+	margin-top: 240px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 10px 10px 10px;
+}
+img.cvfoto{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 10px 10px 10px;
+	height: 740px;
+	width: 511px;
+}
+a{
+	font-family: 'Roboto', sans-serif;
+	color: rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+}
+
+div.menu{
+	height: auto;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 60px;
+	margin-top: 45px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+div.pagebox{
+	background-color: grey;
+	opacity: 0.8;
+	height: auto;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px 5px 5px;
+ 
+}
+li.homemenu{
+	display: inline-block;
+	margin-left: 22px;
+}
+li.homemenu:hover{
+	background-color: grey;
+	border-radius: 5px 5px 5px;
+}
+li.studie{
+	display: block;
+	margin: 10px;
+}
+span{
+	display: block;
+	width: 90px;
+	height: 35px;
+
+}
+i{
+	opacity: 0.4;
+}
+h1{
+	text-align: center;
+	margin-bottom: 40px;
+}
+p.padding{
+	margin: 10px;
+}
